@@ -1,7 +1,7 @@
 
 ### 👏Hello
 
-> I'm a programmer.
+> A FE.
 
 🔗 https://www.wujianbo.com
 
